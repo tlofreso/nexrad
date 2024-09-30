@@ -1,0 +1,12 @@
+[project]
+name = "nexrad"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arm-pyart>=1.19.1",
+    "numpy>=2.1.1",
+    "pandas>=2.2.3",
+    "rich>=13.8.1",
+]
