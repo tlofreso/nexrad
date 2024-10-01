@@ -27,3 +27,16 @@ Here's a [helpful guide from SAS](https://documentation.sas.com/doc/en/etscdc/14
  - [RSL User Guide](https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/users_guide.php)
  - [NASA's RSL Library](https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/) used for radar decoding
 
+### unidata
+Funded by the [NSF](https://www.nsf.gov/)...  
+> Unidata is a diverse community of education and research institutions with the common goal of sharing geoscience data and the tools to access and visualize that data.
+
+Unidata manages the NEXRAD data feeds on AWS. Here are some useful unidata links:
+
+ - [Data](https://www.unidata.ucar.edu/data/index.html)
+ - [Radar Data](https://www.unidata.ucar.edu/data/index.html#radar)
+ - [MetPy](https://www.unidata.ucar.edu/software/metpy) Tools in Python for interacting with weather data
+ - [MetPy GH](https://github.com/Unidata/metpy)
+ - [MetPy Docs](https://unidata.github.io/MetPy/latest/)
+ - [Unidata Python Training](https://unidata.github.io/python-training/)
+ - [Example plotting AWS NEXRAD data](https://unidata.github.io/python-training/gallery/nexrad_s3_demo/)
