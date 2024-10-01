@@ -26,6 +26,7 @@ Here's a [helpful guide from SAS](https://documentation.sas.com/doc/en/etscdc/14
  - [Box Blur, NetCDF, and Radar Data](https://observablehq.com/@cguastini/box-blur-netcdf-and-radar-data)
  - [RSL User Guide](https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/users_guide.php)
  - [NASA's RSL Library](https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/) used for radar decoding
+ - [Data Types](https://www.roc.noaa.gov/data-types.php) decent descriptions for L1, L2, L3 data
 
 ### unidata
 Funded by the [NSF](https://www.nsf.gov/)...  
@@ -40,3 +41,18 @@ Unidata manages the NEXRAD data feeds on AWS. Here are some useful unidata links
  - [MetPy Docs](https://unidata.github.io/MetPy/latest/)
  - [Unidata Python Training](https://unidata.github.io/python-training/)
  - [Example plotting AWS NEXRAD data](https://unidata.github.io/python-training/gallery/nexrad_s3_demo/)
+ - [Youtube Channel](https://www.youtube.com/@unidatanews/videos) with a vast library of content going back to 2013
+ - [NSF NCAR Forecasts](https://www2.mmm.ucar.edu/projects/ncar_ensemble/hwt2024_fv3ens/index.php)
+
+## Personalities
+
+ - David John Gagne
+    - [Unidata Presentation](https://youtu.be/3qD4saYPCSY?si=LReMVPDKn-nOB4WL) - Severe weather forecasting with Python
+        - [Predicting Hail Size](https://youtu.be/3qD4saYPCSY?t=2556&si=_5AiDG1h0Oj1fHbK)
+    - [NACR Staff](https://staff.ucar.edu/users/dgagne)
+    - [Github](https://github.com/djgagne)
+    - [Demos](https://github.com/djgagne/hagelslag/tree/master/demos) from David's hagelslag library
+ - Ryan May - Lead developer for MetPy at Unidata
+    - [THREDDS Data Server (TDS)](https://www.unidata.ucar.edu/software/tds/)
+    - [twitter](https://x.com/dopplershift)
+    - [github](https://github.com/dopplershift)
